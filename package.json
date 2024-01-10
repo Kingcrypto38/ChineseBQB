@@ -20,7 +20,7 @@
     "fs-extra": "8.1.0",
     "moment": "2.24.0",
     "rsync": "0.6.1",
-    "showdown": "1.9.1"
+    "showdown": "2.1.0"
   },
   "repository": {
     "type": "git",
